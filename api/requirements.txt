@@ -18,3 +18,4 @@ soupsieve==2.5
 urllib3==2.1.0
 werkzeug==2.3.7
 zipp==3.17.0
+gunicorn==21.2.0
